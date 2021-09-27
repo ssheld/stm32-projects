@@ -2,7 +2,7 @@
 
 Project repository for Nucleo STM32L476RG based projects
 
-**Project Name** **Description**
+**Project Name** - **Description**
 
 FlashLED - Blinks the onboard LED every 200ms
 

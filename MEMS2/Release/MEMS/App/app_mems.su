@@ -1,0 +1,4 @@
+app_mems.c:252:13:floatToInt	32	static
+app_mems.c:67:6:MX_MEMS_Init	56	static
+app_mems.c:89:6:MX_MEMS_Process	88	static
+app_mems.c:180:6:BSP_PB_Callback	0	static

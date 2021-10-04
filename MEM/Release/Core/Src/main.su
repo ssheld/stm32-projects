@@ -1,0 +1,9 @@
+main.c:135:6:SystemClock_Config	96	static,ignoring_inline_asm
+main.c:277:9:LPS22HB_GetStatus	32	static
+main.c:289:6:LPS22HB_Init	32	static
+main.c:307:5:LPS22HB_GetTemperature	24	static
+main.c:326:6:UART_SEND_NL	0	static
+main.c:333:6:UART_SEND_INT	32	static
+main.c:346:6:UART_SEND_TXT	24	static
+main.c:85:5:main	16	static,ignoring_inline_asm
+main.c:360:6:Error_Handler	0	static,ignoring_inline_asm

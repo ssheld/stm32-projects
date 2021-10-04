@@ -1,0 +1,12 @@
+main.c:85:5:main	8	static
+main.c:135:6:SystemClock_Config	96	static
+main.c:183:13:MX_I2C1_Init	8	static
+main.c:229:13:MX_USART2_UART_Init	8	static
+main.c:264:13:MX_GPIO_Init	16	static
+main.c:277:9:LPS22HB_GetStatus	24	static
+main.c:289:6:LPS22HB_Init	16	static
+main.c:307:5:LPS22HB_GetTemperature	24	static
+main.c:326:6:UART_SEND_NL	16	static
+main.c:333:6:UART_SEND_INT	40	static
+main.c:346:6:UART_SEND_TXT	24	static
+main.c:360:6:Error_Handler	4	static,ignoring_inline_asm
